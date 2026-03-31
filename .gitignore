@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+
+# React build
+frontend/build/
+frontend/dist/
+
+# Backend build
+backend/build/
+backend/dist/
+
+# Environment
+.env
+venv/
+
+# Python cache (if you use Flask/Python scripts)
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
